@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+stickergo.net	TRUE	/	FALSE	1999999999	PHPSESSID	lp6p7gv40q4ppf9kgqiu15lbfl
+
